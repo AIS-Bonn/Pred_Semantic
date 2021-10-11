@@ -8,6 +8,16 @@ If you use the code for your research paper, please cite the following paper:
   <a href="https://arxiv.org/pdf/2110.02829.pdf"><u>Semantic Prediction: Which One Should Come First, Recognition or Prediction?</u></a>&nbsp;<a href="https://arxiv.org/pdf/2110.02829.pdf">[PDF]</a><br>
   In Proceedings of 29th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN), Bruges, Belgium, October 2021. <br><b></b><br>
 </p>
+BIB:
+```
+@Conference{Farazi2021_ESANN,
+  Title                    = {Semantic Prediction: Which One Should Come First, Recognition or Prediction?},
+  Author                   = {Farazi, Hafez and Nogga, Jan and Behnke, Sven},
+  Booktitle                = {European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)},
+  Year                     = {2021},
+  Address                  = {Bruges, Belgium}
+}
+```
 
 ## Dependencies
 The code was tested with Ubuntu 18.04 and PyTorch 1.6
