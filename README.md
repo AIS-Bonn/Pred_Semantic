@@ -13,6 +13,8 @@ If you use the code for your research paper, please cite the following paper:
 The code was tested with Ubuntu 18.04 and PyTorch 1.6
 
 ## Sample Result
+Prediction-Sementics-Semantics GT-Signal GT- Semantics Diff  
+
 Pred_Sem 0%:
 
 ![](sample/PredSem0M.gif)
@@ -24,6 +26,7 @@ Pred_Sem 20%:
 Pred_Sem 100%:
 
 ![](sample/PredSem100M.gif)
+
 
 Sem_Pred 0%:
 
