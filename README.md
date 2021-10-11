@@ -14,18 +14,29 @@ The code was tested with Ubuntu 18.04 and PyTorch 1.6
 
 ## Sample Result
 Pred_Sem 0%:
+
 ![](sample/PredSem0M.gif)
+
 Pred_Sem 20%:
+
 ![](sample/PredSem20M.gif)
+
 Pred_Sem 100%:
+
 ![](sample/PredSem100M.gif)
 
 Sem_Pred 0%:
+
 ![](sample/SemPred0M.gif)
+
 Sem_Pred 20%:
+
 ![](sample/SemPred20M.gif)
+
 Sem_Pred 100%:
+
 ![](sample/SemPred100M.gif)
+
 ## Run
 Sem_Pred
 ```
